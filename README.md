@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Backend Developer using mainly ASP Net Core. Also I am working as Informataion Retrieval and Databases' professor at University of Havana.
-- 🌱 I’m currently learning about Flutter Framework, React Framework and I following the Hands on Machine Learning book.
+- 🌱 I’m currently learning about Flutter Framework, React Framework and following the Hands on Machine Learning book.
 - 👯 I’m looking to collaborate on Flutter packages or something related with Big Data or Data Analysis.
 - 🤔 I’m looking for help with searching methods of study, jobs and career oportunities.
 - 💬 Ask me about Computer Science, Data Science, Software Dev , I like so mouch these topics.
