@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with searching methods of study, jobs and career oportunities.
 - 💬 Ask me about Computer Science, Data Science, Software Dev , I like so mouch these topics.
 - 📫 How to reach me: https://t.me/m4rok97 
-- ⚡ Fun fact: I'm Cuban but i don't know how to dance 😅.
+- ⚡ Fun fact: I'm Cuban but I don't know how to dance 😅.
 
 <!--
 **m4rok97/m4rok97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
